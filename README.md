@@ -18,9 +18,13 @@
 
 终不得愿，抱憾终生。
 
+<!--
+
 [![Lucien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienshui&show_icons=true)](https://www.lucien.ink)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienshui&layout=compact)](https://blog.lucien.ink)
+
+-->
 
 <!--
 **LucienShui/LucienShui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
