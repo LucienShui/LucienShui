@@ -1,6 +1,6 @@
 ### Intro
 
-无名之辈，湖北襄阳人许。
+无名之辈，从虚无中来。
 
 舞勺之年随母至新寻父，后辩称半新半鄂人也。
 
@@ -18,13 +18,10 @@
 
 终不得愿，抱憾终生。
 
-<!--
+![Lucien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienshui&show_icons=true)
 
-[![Lucien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienshui&show_icons=true)](https://www.lucien.ink)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienshui&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienshui&layout=compact)](https://blog.lucien.ink)
-
--->
 
 <!--
 **LucienShui/LucienShui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
