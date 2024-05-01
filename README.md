@@ -1,40 +1,21 @@
 ### Intro
 
-无名之辈，从虚无中来，不知所去。
+无名之辈，古楚之人，不知所来，无以所往。
 
-舞勺之年随母至新寻父，后辩称半新半鄂人也。
+舞勺之年至西域，野心颇多，而力不能及，遂迷茫，吃喝玩乐，废时颇多。寻路甚久，起伏不定，回看以往，悔不当初。
 
-修于新，至舞象之年。野心颇多，而力不能及。遂迷茫，吃喝玩乐，废时颇多，悔不当初。
+修至舞象之年，初至胶州，视野颇开。欲专于曲乐，遂弃课业不顾，写曲弹弦，尽惹啼笑，卖唱半载，混迹苟活。
 
-寻路甚久，起伏不定。
+奈何生而为人，尝八苦，铸大错，遂整日闭门黄粱梦，终婆娑请辞。以《莉莉安》一曲为终，不闻乐，不语歌。
 
-初至青岛，视野颇开，欲专于曲乐，遂弃课业不顾。写曲弹弦，尽惹啼笑，卖唱半载，混迹苟活。
+幸遇伯乐，推至上，众人划桨，披荆斩棘不惊。山前得势，山后迷惘。奈何妖魔鬼怪，其间琐事颇多，郁郁半载，寻医问药略有成。后遇有心人，然，负之，再遇贵人，伴至今。
 
-奈何生而为人，尝八苦，铸大错，遂整日闭门黄粱梦，终婆娑请辞。以《莉莉安》一曲为终，不闻乐，不语歌，尔后至今。
+尔后侥幸，深杭得道，听闻一语，奋不顾身。初至杭州，无以为靠，日月艰辛，行步维艰。幸友人相助，渡此暗无天日，未能报其恩赐，含愧至今。
 
-幸遇伯乐，推至上，众人划桨，披荆斩棘不惊。山前得势，山后迷惘。 奈何妖魔鬼怪，其间琐事颇多，郁郁半载，寻医问药略有成。后遇有心人，然，负之，再遇贵人，伴随至今。
+后祸不单行，复遭魑魅魍魉之扰，力不能及，唯有避之。欲闭门自闲，隔离尘世，奈何身怀责任，唯勉力而行。
+
+拾此文，叹时过境迁，记此日落魄，惧明日迷惘。
 
 惶惶终日，不懂文言分毫，画文于此。
 
 终不得愿，抱憾终生。
-
-<!--
-![Lucien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucienshui&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienshui&layout=compact)
--->
-
-<!--
-**LucienShui/LucienShui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
